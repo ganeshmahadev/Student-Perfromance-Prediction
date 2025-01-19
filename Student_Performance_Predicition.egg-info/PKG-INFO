@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Student-Performance-Predicition
+Version: 0.0.1
+Author: Ganesh Mahadev
+Author-email: ganeshmahadev2463@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: Flask

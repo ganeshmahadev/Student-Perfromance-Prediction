@@ -1,0 +1,9 @@
+setup.py
+Student_Performance_Predicition.egg-info/PKG-INFO
+Student_Performance_Predicition.egg-info/SOURCES.txt
+Student_Performance_Predicition.egg-info/dependency_links.txt
+Student_Performance_Predicition.egg-info/requires.txt
+Student_Performance_Predicition.egg-info/top_level.txt
+src/__init__.py
+src/components/__init__.py
+src/components/data_ingestion.py
